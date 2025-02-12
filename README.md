@@ -1,2 +1,2 @@
-<html><head></head><title>SPEEDSTAR MOTORS</title><Header><h><font colour ="black"></Header>  </html>
+<html><head></head><Header><h><font colour ="black"></Header><title>SPEEDSTAR MOTORS</title> </html>
 
