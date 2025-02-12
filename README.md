@@ -1,5 +1,2 @@
-<!DOCTYPE HTML>
-<head> </head>
-<title>SpeedStar Motors</title>
-<style><body> <colour>grey</colour>grey</style> </!DOCTYPE HTML>
+<html><head></head><title>SPEEDSTAR MOTORS</title>  </html>
 
