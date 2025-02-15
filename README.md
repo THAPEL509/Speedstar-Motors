@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,10 +45,26 @@
             <h2>Products</h2>
             <p>Explore our wide range of products:</p>
             <ul>
-                <li>Laptops and Desktops</li>
-                <li>Printers and Scanners</li>
-                <li>Networking Equipment</li>
-                <li>Software and Licenses</li>
+                <li>
+                    <h3>Laptops</h3>
+                    <img src="https://via.placeholder.com/200x150?text=Laptop+Image" alt="Laptop Image">
+                    <p>High-performance laptops for work and gaming.</p>
+                </li>
+                <li>
+                    <h3>Printers</h3>
+                    <img src="https://via.placeholder.com/200x150?text=Printer+Image" alt="Printer Image">
+                    <p>Printers for home and office use.</p>
+                </li>
+                <li>
+                    <h3>Desktops</h3>
+                    <img src="https://via.placeholder.com/200x150?text=Desktop+Image" alt="Desktop Image">
+                    <p>Powerful desktops for all your computing needs.</p>
+                </li>
+                <li>
+                    <h3>Networking Equipment</h3>
+                    <img src="https://via.placeholder.com/200x150?text=Networking+Equipment" alt="Networking Equipment Image">
+                    <p>Routers, switches, and other networking gear.</p>
+                </li>
             </ul>
         </section>
 
@@ -70,3 +85,10 @@
 </body>
 </html>
 
+               
+        
+           
+        
+
+
+    
