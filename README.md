@@ -47,7 +47,8 @@
             <ul>
                 <li>
                     <h3>Laptops</h3>
-                    <img src="https://via.placeholder.com/200x150?text=Laptop+Image" alt="Laptop Image">
+                    <![image](https://github.com/user-attachments/assets/ba9fd11b-9126-4a75-98d5-0f4cb6195fd3)
+="https://via.placeholder.com/200x150?text=Laptop+Image" alt="Laptop Image">
                     <p>High-performance laptops for work and gaming.</p>
                 </li>
                 <li>
